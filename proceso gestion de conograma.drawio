@@ -1,37 +1,37 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Página-1" id="2YtuLzR8fgBegf59Pdtc">
-    <mxGraphModel dx="1726" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1299" dy="417" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7I-uSvWdMBDbyre7-tgo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7I-uSvWdMBDbyre7-tgo-1" target="7I-uSvWdMBDbyre7-tgo-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7I-uSvWdMBDbyre7-tgo-1" value="Evaluar&amp;nbsp;&lt;div&gt;impacto&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7I-uSvWdMBDbyre7-tgo-1" value="&lt;b&gt;Evaluar&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;impacto&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7I-uSvWdMBDbyre7-tgo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7I-uSvWdMBDbyre7-tgo-2" target="7I-uSvWdMBDbyre7-tgo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7I-uSvWdMBDbyre7-tgo-2" value="Analizar causas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7I-uSvWdMBDbyre7-tgo-2" value="&lt;b&gt;Analizar causas&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7I-uSvWdMBDbyre7-tgo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7I-uSvWdMBDbyre7-tgo-3" target="7I-uSvWdMBDbyre7-tgo-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7I-uSvWdMBDbyre7-tgo-3" value="Definir acciones correctivas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7I-uSvWdMBDbyre7-tgo-3" value="&lt;b&gt;Definir acciones correctivas&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7I-uSvWdMBDbyre7-tgo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7I-uSvWdMBDbyre7-tgo-4" target="7I-uSvWdMBDbyre7-tgo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7I-uSvWdMBDbyre7-tgo-4" value="Informar / comunicar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7I-uSvWdMBDbyre7-tgo-4" value="&lt;b&gt;Informar / comunicar&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7I-uSvWdMBDbyre7-tgo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7I-uSvWdMBDbyre7-tgo-5" target="7I-uSvWdMBDbyre7-tgo-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7I-uSvWdMBDbyre7-tgo-5" value="Seguir y controlar acciones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7I-uSvWdMBDbyre7-tgo-5" value="&lt;b&gt;Seguir y controlar acciones&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7I-uSvWdMBDbyre7-tgo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7I-uSvWdMBDbyre7-tgo-7" target="7I-uSvWdMBDbyre7-tgo-23">
